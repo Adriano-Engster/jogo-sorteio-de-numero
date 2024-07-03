@@ -13,7 +13,7 @@ function exibirTextoNaTela(tag, texto) { // boa maneira de repetir código
 
 function exibirMensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do número secreto');
-    exibirTextoNaTela('p', 'Escolha um número entre 1 e 100');
+    exibirTextoNaTela('p', 'Escolha um número entre 1 e 450');
 }
 
 exibirMensagemInicial();
