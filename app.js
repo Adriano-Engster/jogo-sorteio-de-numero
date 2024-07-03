@@ -1,7 +1,7 @@
 // let titulo = document.querySelector('h1');
 // titulo.innerHTML = 'Jogo do número secreto';
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 450;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 console.log(numeroSecreto); // mostra no console
